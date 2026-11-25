@@ -31,6 +31,16 @@ Reaper Recon UAV is a low-cost, 3D-printed fixed-wing reconnaissance platform de
 
 ---
 
+## Gallery & Engineering Visuals
+
+| CAD & Airframe | Simulation (FEA / CFD) |
+| :---: | :---: |
+| ![CAD Render](media/cad_render.png)<br>*Stretched MQ-9 SolidWorks Assembly* | ![CFD Plot](analysis/cfd_streamlines.png)<br>*STAR-CCM+ Aerodynamic Analysis* |
+| **Build & Avionics** | **Flight Testing** |
+| ![Avionics Sled](media/avionics_sled.png)<br>*Modular Avionics Bay & Harness* | ![Maiden Flight](media/maiden_flight.png)<br>*Field Testing & Ground Station* |
+
+---
+
 ## Project Progress & Milestones
 
 ### Phase 1: Airframe Redesign & Simulation
