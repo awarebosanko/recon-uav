@@ -1,0 +1,98 @@
+﻿eCalc  -  Propeller Calculator                    all data without guarantee - Accuracy:  /-15%
+
+
+Project Name;;
+
+Battery;;
+Configuration:;;
+Load:;C;
+Voltage:;V;
+Rated Voltage:;V;
+Energy:;Wh;
+Total Capacity:;mAh;
+max. discharge:;;
+Used Capacity:;mAh;
+min. Flight Time:;min;
+Mixed Flight Time:;min;
+Weight:;g;
+;oz;
+
+
+Controller;;
+Current:;A cont.;
+;A max;
+Weight:;g;
+;oz;
+Battery extension Wire:;;
+Length:;mm;
+;inch;
+Motor extension Wire:;;
+Length:;mm;
+;inch;
+
+
+Motor @ Maximum;;
+Gear Ratio:;: 1;
+Weight:;g;
+;oz;
+Current:;A;
+Voltage:;V;
+Revolutions*:;rpm;
+electric Power:;W;
+mech. Power:;W;
+Efficiency:;%;
+est. Temperature:;°C;
+;°F;
+
+
+Propeller
+Propeller;;
+# Blades:;;
+Static Thrust:;g;
+;oz;
+Revolutions*:;rpm;
+Stall Thrust:;g;
+;oz;
+avail.Thrust @ Flight Speed:;g@km/h;
+;oz@mph;
+Pitch Speed:;km/h;
+;mph;
+specific Thrust:;g/W;
+;oz/W;
+
+
+Total Drive;;
+Drive Weight:;g;
+;oz;
+Power-Weight:;W/kg;
+;W/lb;
+Thrust-Weight:;: 1;
+Current @ max:;A;
+P(in) @ max:;W;
+P(out) @ max:;W;
+Efficiency @ max:;%;
+
+
+Airplane
+# of Motors:;;
+All-up Weight:;g;
+;oz;
+Wing Area:;;
+Wing Load:;g/dm²;
+;oz/ft²;
+Cubic Wing Load:;;
+est. Stall Speed:;km/h;
+;mph;
+est. Speed (level):;km/h;
+;mph;
+est. Speed (vertical):;km/h;
+;mph;
+est. rate of climb:;m/s;
+;ft/min;
+
+
+Remarks:;;
+
+
+
+(c) by Solution for All   -   7.42.003, 2.11.2026
