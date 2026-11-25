@@ -56,3 +56,9 @@ Reaper Recon UAV is a low-cost, 3D-printed fixed-wing reconnaissance platform de
 ### Phase 5: Mission Flight & Future Platforms
 - [ ] Execute end-to-end autonomous recon & terrain mapping mission
 - [ ] Future upgrade: drop-in onboard companion compute (Raspberry Pi / Jetson) via modular sled
+
+---
+
+## Attribution & License
+* **Base Airframe:** Modified from the [MQ-9 Reaper RC Airplane](https://www.printables.com/model/1339329-uav-drone-mq9-reaper-rc-airplane) by `@Jhonny_3159308` on Printables. Modifications include fuselage extension, wingspan increase, and a custom modular internal avionics sled.
+* **License:** Modified CAD files in `cad/` retain the original Printables license (*[Insert exact CC license from Printables here]*). Original software, scripts, and documentation in this repository are licensed under the MIT License.
